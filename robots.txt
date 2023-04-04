@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: LIHongzong.github.io/sitemap.xml
+Sitemap: https://hongzongli-cs.github.io//sitemap.xml
