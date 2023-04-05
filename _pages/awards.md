@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-- Outstanding Graduates of Liaoning Province in 2020
+- Outstanding Graduates of Liaoning Province in 2020 [(pdf)](../assets/pdf/KBS-Li-Wang2023.pdf)
 - The Special Prize of excellent students of Baosteel in 2019 (20,000 CNY) [(web)](http://www.bsef.baosteel.com/#/newsdetail?nodeid=16&id=7522)
 - The Fourth most influential graduate of the College in 2020
 - The First Prize of "Ti" Cup Electronic Design Competition for undergraduate students in Liaoning Province
