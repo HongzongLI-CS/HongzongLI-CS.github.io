@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /academic_service/
-title: academic service
+title: Academic Service
 description: 
 nav: true
 nav_order: 3
