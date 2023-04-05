@@ -8,6 +8,9 @@ profile:
   align: right
   image: my1.jpg
   image_circular: false # crops the image to make it circular
+  address: >
+    <p>Live with passion.</p>
+    <p>生而热烈<p>
   #address: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
