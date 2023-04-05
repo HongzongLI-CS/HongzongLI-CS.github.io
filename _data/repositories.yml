@@ -3,10 +3,6 @@ github_users:
   - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - HongzongLI-CS/CNO-CC-Github
+  - HongzongLI-CS/CPKM-Github
+  - HongzongLI-CS/CAPKM2.0-Github
