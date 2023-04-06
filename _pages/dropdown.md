@@ -1,13 +1,12 @@
 ---
 layout: page
 title: submenus
-nav: false
-nav_order: 6
+nav: true
+nav_order: 10
 dropdown: true
 children: 
-    - title: Publications
-      permalink: /publications/
-    - title: divider
-    - title: Awards
-      permalink: /awards/
+    - title: Teaching
+      permalink: /teaching/
+    - title: Repositories
+      permalink: /repositories/    
 ---
