@@ -23,3 +23,6 @@ social: true  # includes social icons at the bottom of the page
 I’m a [Ph.D. candidate](https://scholars.cityu.edu.hk/en/persons/hongzong-li(585c4416-c177-4c18-acdd-ca435115a52a).html) in Computer Science at City University of Hong Kong (CityU), where I am so fortunate to be advised by [Prof. Jun Wang](https://scholars.cityu.edu.hk/en/persons/jun-wang(6d556e00-9da5-4b40-9602-8ee68ce4e526).html) (IEEE Life Fellow, IAPR Fellow, Member of Academia Europaea). I obtained my B.E. degree in automation from Northeastern University in 2020.
 
 I work on optimization algorithms, neural networks, computational intelligence techniques, and clustering methods. My Ph.D. research focuses on developing collaborative neurodynamic optimization approaches to capacitated clustering and collaborative annealing clustering methods.
+
+***CHEN Zhongying will graduate in 2023 summer and is currently on the job market. Wellcome to visit [his homepage](https://zhongyingchen.github.io/) and contact him!**
+
