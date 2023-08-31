@@ -24,5 +24,3 @@ I’m a [Ph.D. candidate](https://scholars.cityu.edu.hk/en/persons/hongzong-li(5
 
 I work on optimization algorithms, neural networks, computational intelligence techniques, and clustering methods.
 
-***CHEN Zhongying will graduate in 2023 summer and is currently on the job market. Wellcome to visit [his homepage](https://zhongyingchen.github.io/) and contact him!**
-
