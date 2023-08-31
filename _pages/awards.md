@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 <hr style="border-top: 1px solid rgba(128, 128, 128, 0.5);">
+- **Outstanding Academic Performance Award**
+- **Institutional Research Tuition Scholarship** (HK$3,508 per month)
 - **Outstanding Graduates of Liaoning Province in 2020** [(pdf)](../assets/pdf/辽宁省2020届普通高等学校优秀毕业生.pdf) 
 - **The Special Prize of excellent students of Baosteel in 2019** (20,000 CNY) [(web)](http://www.bsef.baosteel.com/#/newsdetail?nodeid=16&id=7522) [(pdf)](../assets/pdf/2019年度宝钢优秀学生特等奖.pdf)
 - **The Fourth most influential graduate of the College in 2020** [(web)](https://mp.weixin.qq.com/s/gS7Nv1BcSYlEo4hhtpWbuA)
@@ -22,3 +24,4 @@ nav_order: 2
 - **First class scholarship for outstanding students of Northeast University (2019-2020)** [(pdf)](../assets/pdf/东北大学优秀学生一等奖学金（2019-2020）.pdf)
 - **Third class scholarship for outstanding students of Northeast University (2016-2017)** [(pdf)](../assets/pdf/东北大学优秀学生三等奖学金（2016-2017.pdf)
 - **Third class scholarship for outstanding students of Northeast University (2017-2018)** [(pdf)](../assets/pdf/东北大学优秀学生三等奖学金（2017-2018）.pdf)
+
