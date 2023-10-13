@@ -25,7 +25,6 @@
   abbr        = {KBS},
   bibtex_show = {true},
   pdf         = {KBS-Li-Wang2023.pdf},
-  selected    = {true},
 }
 
 @Article{KBS-Li-Wang2022,
