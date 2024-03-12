@@ -7,12 +7,17 @@ nav: true
 nav_order: 2
 ---
 <hr style="border-top: 1px solid rgba(128, 128, 128, 0.5);">
+<b>Doctor of Philosophy (Ph.D.)</b>
 - **Outstanding Academic Performance Award**
-- **Institutional Research Tuition Scholarship** (HK$3,508 per month)
+- **Postgraduate Studentship** (18,270 HKD per month)
+- **Institutional Research Tuition Scholarship** (3,508 HKD per month)
+- **Institutional Research Tuition Grant** (3,508 HKD per month)
+
+<b>Bachelor of Engineering (B.E.)</b>
 - **Outstanding Graduates of Liaoning Province in 2020** [(pdf)](../assets/pdf/辽宁省2020届普通高等学校优秀毕业生.pdf) 
 - **The Special Prize of excellent students of Baosteel in 2019** (20,000 CNY) [(web)](http://www.bsef.baosteel.com/#/newsdetail?nodeid=16&id=7522) [(pdf)](../assets/pdf/2019年度宝钢优秀学生特等奖.pdf)
 - **The Fourth most influential graduate of the College in 2020** [(web)](https://mp.weixin.qq.com/s/gS7Nv1BcSYlEo4hhtpWbuA)
-- **The First Prize of "Ti" Cup Electronic Design Competition for undergraduate students in Liaoning Province** [(pdf)](../assets/pdf/2018年“TI”杯辽宁省普通高等学校本科大学生电子设计竞赛一等奖.pdf)
+- **The First Prize of "TI" Cup Electronic Design Competition for undergraduate students in Liaoning Province** [(pdf)](../assets/pdf/2018年“TI”杯辽宁省普通高等学校本科大学生电子设计竞赛一等奖.pdf)
 - **The Special Prize of the 7th China TRIZ Cup Undergraduate Innovation method competition** [(pdf)](../assets/pdf/第七届中国TRIZ杯大学生创新方法大赛特等奖.pdf)
 - **The First Prize of the fourth Liaoning "TRIZ Cup" college students innovation method competition** [(pdf)](../assets/pdf/第四届辽宁省“TRIZ杯”大学生创新方法大赛一等奖.pdf)
 - **Northeast University (2019) "national innovation training program for college students" - National Excellent** [(pdf)](../assets/pdf/东北大学（2019）“国家级大学生创新训练计划”项目-国家级优秀.pdf)

@@ -7,14 +7,25 @@
       value: 15th August 1997
     - name: Languages
       value: Mandarin, English
-
+      
+      
 - title: Education
   type: time_table
   contents:
-    - title: PhD (Computer Science)
-      institution: Department of Computer Science, City University of Hong Kong. Kowloon Tong, Kowloon, Hong Kong
-      year: 2021-2025
+    - title: Ph.D. (Computer Science)
+      institution: Department of Computer Science, City University of Hong Kong, Kowloon, Hong Kong
+      year: Jan. 2021 - Present
+      description:
+            - Advised by Prof. WANG Jun
+            - Developing optimization algorithms for capacitated clustering, quadratic unconstrained binary optimization, binary matrix factorization, etc.
+            - Developing clustering algorithms and implementing clustering applications.
       
-    - title: Bachelor of Engineering (Automation)
-      institution: College of Information Science and Engineering, Northeastern University, Shenyang, China
-      year: 2016-2020
+      
+
+    - title: B.E.  (Automation)
+      institution: School of Information Science and Engineering, Northeastern University, Shenyang, China
+      year: Sept. 2016 - July 2020 
+      description:
+            - GPA is 3.9891/5  - ranking within the top 5%
+            - Focusing on the applications of machine learning.
+      

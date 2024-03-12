@@ -7,20 +7,17 @@ nav: true
 nav_order: 3
 ---
 
-### Reviewer of the following journals conferences:
+### Committee member and session chair:
 
-- IEEE Transactions on Consumer Electronics
-- IEEE Transactions on Computational Social Systems
-- Mathematical Biosciences and Engineering
-- Signal Processing
-- Journal of Low Frequency Noise, Vibration & Active Control
-- ICIST2022, ICIST2024
+- *The 13th International Conference on Information Science and Technology (ICIST)*, 2023.
 
+### Reviewer of the following eight journals and four conferences:
 
-
-### Provide conference-related services:
-
-- The 11th, 12th, and 13th International Conference on Information Science and Technology (ICIST), 2021, 2022, and 2023.
-- The 11th, and 12th International Conference on Intelligent Control and Information Processing (ICICIP), 2021, 2024.
-- The 18th International Symposium on Neural Networks (ISNN), 2024.
-- The 16th International Conference on Advanced Computational Intelligence (ICACI), 2024.
+- *IEEE Transactions on Pattern Analysis and Machine Intelligence*
+- *IEEE Transactions on Consumer Electronics* 
+- *IEEE Transactions on Computational Social Systems*
+- *Neural Networks*
+- *Mathematical Biosciences and Engineering*
+- *Signal Processing, Journal of Low Frequency Noise*, *Vibration & Active Control*
+- *Cloud Computing and Data Science*
+- *ICIST2022*, *ICIST2024*, *ICICIP2024*, *ISNN2024*.
