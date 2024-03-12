@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎓 Congratulations to [CHEN Zhongying](https://zhongyingchen.github.io/) on his PhD graduation 🥳🌟
+🎓 Congratulations to [CHEN Zhongying](https://zhongyingchen.github.io/) (Incoming Associate Professor at Southeast University) on his PhD graduation 🥳🌟
