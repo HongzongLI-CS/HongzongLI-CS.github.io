@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Live with passion.</p>
-    <p>生而热烈<p>
+  #  <p>生而热烈<p>
   #address: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
@@ -29,3 +29,14 @@ I’m a [Ph.D. candidate](https://scholars.cityu.edu.hk/en/persons/hongzong-li(5
 - Computational Intelligence
 - Clustering
 - Machin Learning
+
+<br />
+
+<br />
+
+---
+
+***<font color="red">I will graduate in the winter of 2024 and am currently on the job market.</font>***
+
+---
+
