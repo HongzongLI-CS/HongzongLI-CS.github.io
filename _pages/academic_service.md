@@ -11,9 +11,10 @@ nav_order: 3
 
 - *The 13th International Conference on Information Science and Technology (ICIST)*, 2023.
 
-### Reviewer of the following eight journals and five conferences:
+### Reviewer of the following nine journals and five conferences:
 
 - *IEEE Transactions on Pattern Analysis and Machine Intelligence*
+- *IEEE Transactions on Neural Networks and Learning Systems*
 - *IEEE Transactions on Consumer Electronics* 
 - *IEEE Transactions on Computational Social Systems*
 - *Neural Networks*
