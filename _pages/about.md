@@ -36,11 +36,12 @@ I’m a [Ph.D. candidate](https://scholars.cityu.edu.hk/en/persons/hongzong-li(5
     - Quadratic Unconstrained Binary Optimization (<a href="https://ieeexplore.ieee.org/document/10546310" style="color: Fuchsia">TETCI</a>)
     - Traveling Salesman Problem (<a href="https://ieeexplore.ieee.org/abstract/document/9440588" style="color: Fuchsia">ICIST2021</a>, <a href="https://ieeexplore.ieee.org/abstract/document/9642212" style="color: Fuchsia">ICICIP2021</a>)
   - **Binary Matrix Factorization** (<a href="https://www.sciencedirect.com/science/article/pii/S0893608024002727" style="color: Fuchsia">NN</a>)  
+  - **Constrained Binary Matrix Factorization** (<a style="color: Fuchsia">Submitted to TSMCS</a>)  
   - **Sudoku Puzzles** (<a href="https://ieeexplore.ieee.org/abstract/document/9926961" style="color: Fuchsia">ICIST2022</a>)
 
 - **Learning**
   - **Unsupervised Learning**
-    - Clustering
+    - **Clustering**
       - Based on Fuzzy c-means (<a href="https://ieeexplore.ieee.org/abstract/document/10265146" style="color: Fuchsia">TFS</a>)
       - Based on Power k-means (<a href="https://www.sciencedirect.com/science/article/pii/S0950705122008036" style="color: Fuchsia">KBS</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0950705122013375" style="color: Fuchsia">KBS</a>)
       - Application of Clustering application to Index Tracking (<a href="https://ieeexplore.ieee.org/abstract/document/9642192" style="color: Fuchsia">ICICIP2021</a>)
