@@ -20,7 +20,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I’m a [Ph.D. candidate](https://scholars.cityu.edu.hk/en/persons/hongzong-li(585c4416-c177-4c18-acdd-ca435115a52a).html) in Computer Science at City University of Hong Kong (CityU), where I am so fortunate to be advised by [Prof. Jun Wang](https://scholars.cityu.edu.hk/en/persons/jun-wang(6d556e00-9da5-4b40-9602-8ee68ce4e526).html) (IEEE Life Fellow, IAPR Fellow, Member of Academia Europaea). I obtained my B.E. degree in automation from Northeastern University in 2020.
+I’m a [Ph.D. candidate](https://scholars.cityu.edu.hk/en/persons/hongzong-li(585c4416-c177-4c18-acdd-ca435115a52a).html) in Computer Science at City University of Hong Kong (CityU), where I am so fortunate to be advised by [Prof. Jun Wang](https://scholars.cityu.edu.hk/en/persons/jun-wang(6d556e00-9da5-4b40-9602-8ee68ce4e526).html) (IEEE Life Fellow, Member of Academia Europaea, IAPR Fellow, and Dean of the School of Data Science). I obtained my B.E. degree in automation from Northeastern University in 2020.
 
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; width: 68%; margin-left: 0px; color: red;">
     I will graduate in the winter of 2024 and am currently on the job market.
