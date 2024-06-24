@@ -15,7 +15,7 @@ footer_text: >
 keywords: Hongzong LI, Li Hongzong, li hongzong, hongzon li, cs, computer science, optimization  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: cityu.jpeg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: cityu.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://hongzongli-cs.github.io/ # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -44,7 +44,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: false
+rss_icon: true
 
 # -----------------------------------------------------------------------------
 # Layout
