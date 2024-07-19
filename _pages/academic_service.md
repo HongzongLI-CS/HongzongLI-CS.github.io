@@ -21,4 +21,5 @@ nav_order: 3
 - *Mathematical Biosciences and Engineering*
 - *Signal Processing, Journal of Low Frequency Noise*, *Vibration & Active Control*
 - *Cloud Computing and Data Science*
-- *ICIST2022*, *ICIST2024*, *ICICIP2024*, *ISNN2024*, *ICCA2024*.
+- *Science China Technological Sciences*
+- *NeurIPS2024*, *ICIST2022*, *ICIST2024*, *ICICIP2024*, *ISNN2024*, *ICCA2024*.
