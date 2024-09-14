@@ -7,6 +7,7 @@ nav: false
 nav_order: 4
 ---
 
+- Fall 2024: Teaching assistant in CCS5487 Machine Learning: Principles and Practice at CityU
 - Spring 2024: Teaching assistant in CS4386 AI Game Programming at CityU
 - Fall 2023: Teaching assistant in CS5489 Machine Learning: Algorithms and Applications at CityU
 - Fall 2022: Teacher in CS5486 Intelligent Systems at CityU.

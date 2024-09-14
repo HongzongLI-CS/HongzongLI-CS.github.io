@@ -7,8 +7,8 @@ nav: true
 nav_order: 2
 ---
 #### Doctor of Philosophy (Ph.D.)
-
-- **Outstanding Academic Performance Award for Research Degree Students** [(web)](https://scholars.cityu.edu.hk/en/prizes/outstanding-academic-performance-award-for-research-degree-students-non-ugcfunded-students(fd5600b5-e927-4484-9faf-06ebacf114be).html)
+- **Outstanding Academic Performance Award, 16 Aug. 2024** [(web)](https://scholars.cityu.edu.hk/en/prizes/outstanding-academic-performance-award-for-research-degree-students-non-ugcfunded-students(a36f6e6c-3556-4bdb-b65b-3aeb719f1122).html)
+- **Outstanding Academic Performance Award, 16 Aug. 2023** [(web)](https://scholars.cityu.edu.hk/en/prizes/outstanding-academic-performance-award-for-research-degree-students-non-ugcfunded-students(fd5600b5-e927-4484-9faf-06ebacf114be).html)
 - Postgraduate Studentship (18,270 HKD per month)
 - Institutional Research Tuition Scholarship (3,508 HKD per month) [(web)](https://scholars.cityu.edu.hk/en/prizes/institutional-research-tuition-scholarship(0d4d6e37-227e-4ead-a389-17b573efeb97).html)
 - Institutional Research Tuition Grant (3,508 HKD per month)
