@@ -12,7 +12,7 @@ nav_order: 3
 ### Session chair and committee member:
 - *The 13th International Conference on Information Science and Technology (ICIST2023)*, Cairo, Egypt.
 
-### Reviewer of the following nine journals and five conferences:
+### Reviewer of the following journals and conferences:
 
 - *IEEE Transactions on Pattern Analysis and Machine Intelligence*
 - *IEEE Transactions on Neural Networks and Learning Systems*
