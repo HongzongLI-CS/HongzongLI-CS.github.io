@@ -20,7 +20,12 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I’m a [Ph.D. candidate](https://scholars.cityu.edu.hk/en/persons/hongzong-li(585c4416-c177-4c18-acdd-ca435115a52a).html) in Computer Science at City University of Hong Kong (CityU), where I am so fortunate to be advised by [Prof. Jun Wang](https://scholars.cityu.edu.hk/en/persons/jun-wang(6d556e00-9da5-4b40-9602-8ee68ce4e526).html) (IEEE Life Fellow, Member of Academia Europaea, IAPR Fellow, and Dean of the School of Data Science). I obtained my B.E. degree in automation from Northeastern University in 2020.
+I’m a [Ph.D. candidate](https://scholars.cityu.edu.hk/en/persons/hongzong-li(585c4416-c177-4c18-acdd-ca435115a52a).html) in Computer Science at City University of Hong Kong (CityU), where I am so fortunate to be advised by [Prof. Jun Wang](https://scholars.cityu.edu.hk/en/persons/jun-wang(6d556e00-9da5-4b40-9602-8ee68ce4e526).html) (IEEE Life Fellow, Member of Academia Europaea, IAPR Fellow, and Dean of the School of Data Science). I obtained my B.E. degree in automation from Northeastern University in 2020. 
+
+My current research interests include optimization, machine learning, computational intelligence, and neural networks.
+
+- [Curriculum Vitae (English)](../assets/pdf/Curriculum Vitae of Hongzong LI.pdf)
+- [个人简历 (中文)](../assets/pdf/李宏宗简历.pdf)
 
 <div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; width: 68%; margin-left: 0px; color: red;">
     I will graduate in the winter of 2024 and am currently on the job market.
@@ -28,7 +33,7 @@ I’m a [Ph.D. candidate](https://scholars.cityu.edu.hk/en/persons/hongzong-li(5
 
 <br />
 
-#### **Research Interests** 
+<!-- #### **Research Interests** 
 (The papers marked in <a style="color: Fuchsia">fuchsia</a> were completed while I am pursuing my Ph.D., and the papers marked in <a style="color: DodgerBlue">dodge blue</a> were completed during my undergraduate studies.)
 - **Optimization**
   - **Operational Research Problems**
@@ -57,6 +62,6 @@ I’m a [Ph.D. candidate](https://scholars.cityu.edu.hk/en/persons/hongzong-li(5
     
     - **Computer Vision** 
       - Slope Monitoring (<a href="https://dl.acm.org/doi/abs/10.1145/3349341.3349452" style="color: DodgerBlue">ICAICS2019</a>)
-      - Warning System for Large Truck (<a href="https://onlinelibrary.wiley.com/doi/full/10.1155/2019/2180294" style="color: DodgerBlue">CIN</a>)
+      - Warning System for Large Truck (<a href="https://onlinelibrary.wiley.com/doi/full/10.1155/2019/2180294" style="color: DodgerBlue">CIN</a>) -->
 
----
+<!-- --- -->

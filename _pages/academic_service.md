@@ -16,6 +16,7 @@ nav_order: 3
 
 - *IEEE Transactions on Pattern Analysis and Machine Intelligence*
 - *IEEE Transactions on Neural Networks and Learning Systems*
+- *IEEE Transactions on Knowledge and Data Engineering*
 - *IEEE Transactions on Industrial Electronics*
 - *IEEE Transactions on Consumer Electronics* 
 - *IEEE Transactions on Computational Social Systems*
@@ -25,4 +26,11 @@ nav_order: 3
 - *Science China Technological Sciences*
 - *Cloud Computing and Data Science*
 - *Science China Technological Sciences*
-- *ICIST2022*, *ICIST2024*, *ICICIP2024*, *ISNN2024*, *ICCA2024*, *NeurIPS2024*, *ICLR2025*.
+- *ICIST2022*
+- *ICIST2024*
+- *ICICIP2024*
+- *ISNN2024*
+- *ICCA2024*
+- *NeurIPS2024*
+- *ICLR2025*
+- *AISTATS2025*.
