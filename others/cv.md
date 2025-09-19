@@ -12,11 +12,11 @@ cv_pdf: Curriculum Vitae of Hongzong LI.pdf
 
 **Ph.D. Candidate in Computer Science**   
 
-*Jan. 2021 - Present*   
+*Jan. 2021 - Dec. 2024*   
 
 - Advisor: **Prof. WANG Jun** 
-- Developing  optimization algorithms for capacitated clustering, quadratic unconstrained  binary optimization, binary matrix factorization, etc. (I have authored seven  papers as first author, four of which have been accepted for publication)
-- Developing  clustering algorithms and implementing clustering applications (I have authored four papers as first author, all of which have been accepted for publication)
+- Developing  optimization algorithms for capacitated clustering, quadratic unconstrained  binary optimization, binary matrix factorization, etc.
+- Developing  clustering algorithms and implementing clustering applications.
 
 ##### Northeastern University, Shenyang, China 
 

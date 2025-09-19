@@ -2,7 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.cs.cityu.edu.hk/'>Department of Computer Science</a>, City University of Hong Kong, Kowloon Tong, Kowloon, Hong Kong. #+852-93674914. hongzli2-c@my.cityu.edu.hk, hongzong.li.cn@gmail.com.
+subtitle: IEEE Member
+#subtitle: Hong Kong University of Science and Technology, New Territories, Hong Kong.
+#subtitle: <a href='https://www.cs.cityu.edu.hk/'>Department of Computer Science</a>, City University of Hong Kong, Kowloon Tong, Kowloon, Hong Kong. #+852-93674914. hongzli2-c@my.cityu.edu.hk, hongzong.li.cn@gmail.com.
 
 profile:
   align: right
@@ -20,16 +22,39 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I’m a [Ph.D. candidate](https://scholars.cityu.edu.hk/en/persons/hongzong-li(585c4416-c177-4c18-acdd-ca435115a52a).html) in Computer Science at City University of Hong Kong (CityU), where I am so fortunate to be advised by [Prof. Jun Wang](https://scholars.cityu.edu.hk/en/persons/jun-wang(6d556e00-9da5-4b40-9602-8ee68ce4e526).html) (IEEE Life Fellow, Member of Academia Europaea, IAPR Fellow, and Dean of the School of Data Science). I obtained my B.E. degree in automation from Northeastern University in 2020. 
+<!-- I am a Postdoctoral Fellow at the Hong Kong University of Science and Technology (HKUST), working under the supervision of [Prof. Dapeng Oliver Wu](https://www.cs.cityu.edu.hk/~dapengwu/) (IEEE Fellow).
 
-My current research interests include optimization, machine learning, computational intelligence, and neural networks.
+[Ph.D](https://scholars.cityu.edu.hk/en/persons/hongzong-li(585c4416-c177-4c18-acdd-ca435115a52a).html) in Computer Science at City University of Hong Kong (CityU), 2024, advised by [Prof. Jun Wang](https://scholars.cityu.edu.hk/en/persons/jun-wang(6d556e00-9da5-4b40-9602-8ee68ce4e526).html) (IEEE Life Fellow, Member of Academia Europaea, IAPR Fellow, HKEng Fellow, and Editor-in-Chief of the IEEE Transactions on Artificial Intelligence). 
 
-- [Curriculum Vitae (English)](../assets/pdf/Curriculum Vitae of Hongzong LI.pdf)
-- [个人简历 (中文)](../assets/pdf/李宏宗简历.pdf)
+B.E. in Automation, Northeastern University, 2020.  -->
 
-<div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; width: 68%; margin-left: 0px; color: red;">
+
+#### 🏢 Employment
+- **Postdoctoral Fellow** *(2025–present)*  
+  *Hong Kong University of Science and Technology (HKUST)*  
+  Supervised by [Prof. Dapeng Oliver Wu](https://www.cs.cityu.edu.hk/~dapengwu/) *(IEEE Fellow)*  
+
+---
+
+#### 🎓 Education Background
+- **Ph.D. in Computer Science** *(2021–2024)*  
+  *City University of Hong Kong (CityUHK)*  
+  Advised by [Prof. Jun Wang](https://scholars.cityu.edu.hk/en/persons/jun-wang(6d556e00-9da5-4b40-9602-8ee68ce4e526).html) *(IEEE Life Fellow, Member of Academia Europaea, IAPR Fellow, HKEng Fellow,  
+  Editor-in-Chief of IEEE Transactions on Artificial Intelligence)*  
+
+- **B.E. in Automation** *(2016–2020)*  
+  *Northeastern University (NEU)*  
+
+---
+
+#### 📘 Curriculum Vitae
+- [Curriculum Vitae (English)](../assets/pdf/Curriculum%20Vitae%20of%20Hongzong%20LI.pdf)  
+- [个人简历 (中文)](../assets/pdf/李宏宗简历.pdf)  
+
+
+<!-- <div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; width: 68%; margin-left: 0px; color: red;">
     I will graduate in the winter of 2024 and am currently on the job market.
-</div>
+</div> -->
 
 <br />
 
